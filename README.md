@@ -1,2 +1,3 @@
-# projeto-matrix-stuffs
-Repository for private contents of the Matrix project
+# This is my private stuffs for Projeto matrix
+
+I'm storing important things here
