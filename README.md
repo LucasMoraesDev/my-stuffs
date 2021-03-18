@@ -1,3 +1,5 @@
-# This is my private stuffs for Projeto matrix
+# Welcome to my stuffs repository
 
-I'm storing important things here
+This content is related to my in process projects, so I'll add here some sources used on them
+
+(like images and other things)
